@@ -10,13 +10,11 @@ In order to run the website, you are required to install parcel-bundler.
 
 ```
 npm install -g parcel-bundler
-
 ```
 
 Then, 
 
 ```
 parcel index.html
-
 ```
 
