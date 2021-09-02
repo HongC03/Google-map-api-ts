@@ -136894,7 +136894,7 @@ var User = function () {
   }
 
   User.prototype.markerContent = function () {
-    return "User Name: " + this.name;
+    return "<h3>User Name: " + this.name + "</h3>";
   };
 
   return User;
@@ -136927,7 +136927,7 @@ var Company = function () {
   }
 
   Company.prototype.markerContent = function () {
-    return "\n      <div>\n        <h1>Company Name: " + this.name + "</h1>\n      </div>\n    ";
+    return "\n      <div>\n        <h3>Company Name: " + this.name + "</h3>\n      </div>\n    ";
   };
 
   return Company;
