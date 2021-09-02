@@ -22,4 +22,4 @@ parcel index.html
 
 Noted that the name, company name and location of the marker are different when you refresh the page.
 
-![Google-Map-API-ts](/src/asset/google-map-api-ts.jpeg)
+![Google-Map-API-ts](/src/asset/google-map-api-ts.png)
